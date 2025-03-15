@@ -4,5 +4,4 @@ cheap prices
 uptime 99.9%
 active staff members
 
-dc: discord.gg/Je6tu6vRAy
-tg: t.me/tokyoc2
+dc: discord.gg/Je6tu6vRAy tg: t.me/tokyoc2
